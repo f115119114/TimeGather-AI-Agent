@@ -28,7 +28,6 @@
 
 ```text
 My Agent/
-├── .env.example                # 環境變數設定範本檔（無金鑰）
 ├── .gitignore                  # Git 忽略清單（排除 .env 與 *.db）
 ├── 1_Agent-Tool-Calling_.ipynb # 單元實驗與評測 Notebook（含 100% 工具選擇評測）
 ├── app-gradio.py               # Gradio Web 互動應用程式主程式
