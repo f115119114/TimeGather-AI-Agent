@@ -29,7 +29,6 @@
 ```text
 My Agent/
 ├── .gitignore                  # Git 忽略清單（排除 .env 與 *.db）
-├── 1_Agent-Tool-Calling_.ipynb # 單元實驗與評測 Notebook（含 100% 工具選擇評測）
 ├── app-gradio.py               # Gradio Web 互動應用程式主程式
 ├── games.csv                   # 桌遊庫存與費率資料集
 ├── shop_info.csv               # 門市資訊與政策資料集
